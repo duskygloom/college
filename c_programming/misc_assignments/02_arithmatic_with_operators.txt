@@ -1,0 +1,6 @@
+gcc 02_arithmatic_with_operators.c -o 02_arithmatic_with_operators.out
+./02_arithmatic_with_operators.out
+Numbers: 12 23
+Operator: *
+12 * 23 = 276
+

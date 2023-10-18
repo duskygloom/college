@@ -1,0 +1,14 @@
+gcc 06_matrix_multiplication.c -o 06_matrix_multiplication.out
+./06_matrix_multiplication.out
+Dimensions of matrix 1: 2 2
+Dimensions of matrix 2: 2 1
+Matrix 1:
+1 2
+3 4
+Matrix 2:
+5
+5
+Product matrix:
+15
+35
+

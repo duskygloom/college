@@ -1,0 +1,7 @@
+gcc 11_common_elements.c -o 11_common_elements.out
+./11_common_elements.out
+Length of arrays: 3 5
+3 elements: 1 2 3
+5 elements: 2 4 6 1 4
+Common elements: 1 2
+

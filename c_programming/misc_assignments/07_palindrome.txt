@@ -1,0 +1,5 @@
+gcc 07_palindrome.c -o 07_palindrome.out
+./07_palindrome.out
+String: milim
+milim is palindrome.
+

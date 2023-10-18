@@ -1,0 +1,62 @@
+gcc 35_bank_customer.c -o 35_bank_customer.out -Wno-pointer-to-int-cast -Wno-int-to-pointer-cast
+./35_bank_customer.out
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 1
+Stored customer records in customer_records_data.txt
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 2
+Account number: 20
+Account number doesn't exist.
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 10
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 2
+Account number: 10
+Account number: 10
+Balance: 50000.00
+Account active: No
+Do you want to change the record? (y/n) y
+New balance: 25000
+Is the account active? (y/n) y
+Record changed and saved.
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 2
+Account number: 10
+Account number: 10
+Balance: 25000.00
+Account active: Yes
+Do you want to change the record? (y/n) n
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 3
+Balance: 43000
+Is the account active? (y/n) y
+Added customer record 14.
+
+1. Store customer records in file.
+2. Retrieve the record of a customer with account number and update if required.
+3. Append a new customer to the file.
+0. Quit.
+Response: 0

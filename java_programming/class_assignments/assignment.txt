@@ -1,0 +1,12 @@
+1. Write a java program to find the hcf of two positive integers.
+
+2. Write a java program to find the roots of a quadratic equation.
+
+3. Write a java program to find the approximate value of sin x,
+    taking upto six terms in the series.
+
+4. Write a java program for addition of two rational numbers.
+    The sum should be shown in reduced format.
+
+5. Write a java program to find the approximate value of roots 
+    of a given equation.

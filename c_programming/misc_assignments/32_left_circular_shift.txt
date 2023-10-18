@@ -1,0 +1,14 @@
+gcc 32_left_circular_shift.c -o 32_left_circular_shift.out
+./32_left_circular_shift.out
+5 elements: 1 2 3 4 5
+Array after shifting: 3 4 5 1 2
+
+3x5 matrix:
+1 2 3 4 5
+6 7 8 9 0
+2 4 6 8 0
+Matrix after shifiting:
+3 4 5 1 2
+8 9 0 6 7
+6 8 0 2 4
+

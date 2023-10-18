@@ -1,0 +1,17 @@
+gcc 29_arrange_names.c -o 29_arrange_names.out
+./29_arrange_names.out
+Number of names: 5
+
+Name 1: pikachu
+Name 2: meowth
+Name 3: mimoswine
+Name 4: rattata
+Name 5: zapdos
+
+Sorted names:
+meowth
+mimoswine
+pikachu
+rattata
+zapdos
+

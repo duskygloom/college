@@ -1,0 +1,5 @@
+gcc 22_bulbs.c -o 22_bulbs.out
+./22_bulbs.out
+Out of stock: (GEC, 40W) (Philips, 15W) (Philips, 100W) (Crompton, 25W) (Surya, 40W) (Bajaj, 60W)
+Total cost of bulbs: 5322.50
+

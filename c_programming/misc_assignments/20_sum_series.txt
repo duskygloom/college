@@ -1,0 +1,5 @@
+gcc 20_sum_series.c -o 20_sum_series.out
+./20_sum_series.out
+x n: 2 6
+Sum = 0.909296
+

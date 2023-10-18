@@ -1,0 +1,20 @@
+# vscode
+.vscode/
+
+# c
+*.o
+*.exe
+*.out
+
+# java
+*.class
+
+# python
+__pycache__/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+test.*

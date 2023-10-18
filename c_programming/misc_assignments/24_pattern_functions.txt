@@ -1,0 +1,6 @@
+gcc 24_pattern_functions.c -o 24_pattern_functions.out
+./24_pattern_functions.out
+x n: 6 3
+Series 1: 19.000000
+Sin series: -29.000000
+

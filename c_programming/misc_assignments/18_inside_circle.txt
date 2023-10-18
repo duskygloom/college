@@ -1,0 +1,5 @@
+gcc 18_inside_circle.c -o 18_inside_circle.out
+./18_inside_circle.out
+x y: 0.5 0.5
+(0.50, 0.50) lies within the circle.
+

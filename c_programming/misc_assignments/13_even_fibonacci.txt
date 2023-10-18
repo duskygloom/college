@@ -1,0 +1,5 @@
+gcc 13_even_fibonacci.c -o 13_even_fibonacci.out
+./13_even_fibonacci.out
+How many numbers do you need? 5
+Even fibonacci numbers: 0 2 8 34 144
+

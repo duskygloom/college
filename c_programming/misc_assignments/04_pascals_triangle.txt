@@ -1,0 +1,9 @@
+gcc 04_pascals_triangle.c -o 04_pascals_triangle.out
+./04_pascals_triangle.out
+Number of lines: 5
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+

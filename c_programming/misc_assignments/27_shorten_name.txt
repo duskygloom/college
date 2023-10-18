@@ -1,0 +1,5 @@
+gcc 27_shorten_name.c -o 27_shorten_name.out
+./27_shorten_name.out
+Name: robert louis stevenson
+Shortened name: R.L. Stevenson
+

@@ -1,0 +1,8 @@
+gcc 01_sum_of_squares.c -o 01_sum_of_squares.out
+./01_sum_of_squares.out
+Number of inputs: 5
+
+Numbers: 12 23 34 45 65
+45 ^ 2 = 2025
+65 ^ 2 = 4225
+

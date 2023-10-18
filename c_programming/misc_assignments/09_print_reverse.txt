@@ -1,0 +1,5 @@
+gcc 09_print_reverse.c -o 09_print_reverse.out
+./09_print_reverse.out
+String: printing in reverse
+Reverse string: esrever ni gnitnirp
+

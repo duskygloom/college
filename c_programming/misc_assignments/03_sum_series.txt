@@ -1,0 +1,5 @@
+gcc 03_sum_series.c -o 03_sum_series.out
+./03_sum_series.out
+Value of x: 4
+Value = 9.000000
+

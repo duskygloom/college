@@ -1,0 +1,44 @@
+gcc 30_student_data.c -o 30_student_data.out
+./30_student_data.out
+Number of students: 4
+
+Student 1
+Roll number: 100
+Name: rama rai
+Department: maths
+Course: short physics
+Year of joining: 2012
+
+Student 2
+Roll number: 101
+Name: piyush patel
+Department: integrated
+Course: integrated mechanics
+Year of joining: 2008
+
+Student 3
+Roll number: 102
+Name: ayushi aggarwal
+Department: chemistry
+Course: thermodynamics
+Year of joining: 2012
+
+Student 4
+Roll number: 103
+Name: aman aria
+Department: physics
+Course: quantum mechanics
+Year of joining: 2009
+
+Year of joining: 2012
+Students who joined in 2012:
+rama rai
+ayushi aggarwal
+
+Roll number: 103
+Details about roll number 103:
+Name: aman aria
+Department: physics
+Course: quantum mechanics
+Year of joining: 2009
+

@@ -1,0 +1,114 @@
+gcc 33_linked_list_operations.c -o 33_linked_list_operations.out
+./33_linked_list_operations.out
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 1
+Element: 12
+List after appending: 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 2
+Elements for new list: 23 34 45
+List after concatenating: 12 23 34 45
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 3
+List after reversing: 45 34 23 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 4
+n: 0
+Node value: 54
+List after insertion: 54 45 34 23 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 5
+Copy of list: 54 45 34 23 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 6
+Number of nodes: 5
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 7
+List after deleting all even nodes: 54 34 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 8
+n k: 1 0
+List after interchanging: 34 54 12
+
+1. Append an element to the tail of the list.
+2. Concatenate two lists.
+3. Reverse a list.
+4. Insert a node as the nth node of the list.
+5. Copy a list into another.
+6. Count the number of nodes in a list.
+7. Delete all even nodes in the list.
+8. Interchange the nth and kth nodes of a list.
+0. Quit.
+Response: 0
+

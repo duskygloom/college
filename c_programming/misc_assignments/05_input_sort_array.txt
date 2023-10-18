@@ -1,0 +1,5 @@
+gcc 05_input_sort_array.c -o 05_input_sort_array.out
+./05_input_sort_array.out
+10 elements: 13 42 4 1 4 1 8 46 7 2
+Array: 46 42 13 8 7 4 4 2 1 1
+

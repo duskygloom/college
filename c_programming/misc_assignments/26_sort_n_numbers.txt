@@ -1,0 +1,6 @@
+gcc 26_sort_n_numbers.c -o 26_sort_n_numbers.out
+./26_sort_n_numbers.out
+n: 3
+3 elements: 12 1 34
+Sorted elements: 1 12 34
+

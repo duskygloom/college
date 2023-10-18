@@ -1,0 +1,16 @@
+.root {
+    -fx-background-image: url("background.png");
+    -fx-background-size: stretch;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-background-radius: 50px;
+}
+
+.textfield {
+    -fx-background-color: rgba(214, 214, 214, 0.7);
+}

@@ -1,0 +1,5 @@
+gcc 08_uppercase.c -o 08_uppercase.out
+./08_uppercase.out
+String: Segmentation fault.
+Capitalised string: SEGMENTATION FAULT.
+

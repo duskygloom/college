@@ -1,0 +1,6 @@
+gcc 10_copy_string.c -o 10_copy_string.out
+./10_copy_string.out
+String: jerry
+Input string: jerry
+Copied string: jerry
+

@@ -1,0 +1,5 @@
+gcc 15_ncr.c -o 15_ncr.out
+./15_ncr.out
+n r: 5 2
+nCr = 10
+

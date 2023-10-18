@@ -1,0 +1,5 @@
+gcc 28_decimal_hex.c -o 28_decimal_hex.out
+./28_decimal_hex.out
+Decimal number: 23134422
+Hexadecimal: 016100D6
+

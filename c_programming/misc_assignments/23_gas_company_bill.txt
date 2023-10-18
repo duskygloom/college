@@ -1,0 +1,24 @@
+gcc 23_gas_company_bill.c -o 23_gas_company_bill.out
+./23_gas_company_bill.out
+Number of inputs: 2
+
+Customer number: H1231
+Previous meter reading: 10
+New meter reading: 3558
+
+Customer number: H1231
+Previous reading: 10.00
+New reading: 3558.00
+Gas used: 3548.00
+Total bill: 459.28
+
+Customer number: B5562
+Previous meter reading: 3123
+New meter reading: 1344232
+
+Customer number: B5562
+Previous reading: 3123.00
+New reading: 1344232.00
+Gas used: 1341109.00
+Total bill: 108058.22
+

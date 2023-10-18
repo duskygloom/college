@@ -1,0 +1,6 @@
+gcc 34_committies.c -o 34_committies.out
+./34_committies.out
+Total number of people: 10
+Number of people in each committee: 6
+Number of committees by using mentioned method: 210
+Number of committees by using alternate method: 210

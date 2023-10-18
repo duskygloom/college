@@ -1,0 +1,5 @@
+gcc 18_point_location.c -o 18_point_location.out
+./18_point_location.out
+x y: 1 2
+(1, 2) lies in quadrant I.
+

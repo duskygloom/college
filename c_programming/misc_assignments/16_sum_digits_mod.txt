@@ -1,0 +1,5 @@
+gcc 16_sum_digits_mod.c -o 16_sum_digits_mod.out
+./16_sum_digits_mod.out
+Number: 12131
+Result = 8
+

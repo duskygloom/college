@@ -1,0 +1,34 @@
+gcc 31_employee_data.c -o 31_employee_data.out
+./31_employee_data.out
+Number of employees: 3
+
+Employee 1
+Employee number: 123
+Employee name: rajiv kapoor
+Employee pay: 1500
+Date of joining (dd mm yyyy): 1 1 2000
+
+Employee 2
+Employee number: 124
+Employee name: mohit pandey
+Employee pay: 3000
+Date of joining (dd mm yyyy): 1 10 1998
+
+Employee 3
+Employee number: 125
+Employee name: dilip kumar
+Employee pay: 6000
+Date of joining (dd mm yyyy): 1 5 2008
+
+Employees who have completed 20 years of service.
+
+Employee number: 123
+Employee name: rajiv kapoor
+Employee pay: 1725.00
+Date of joining: 1-1-2000
+
+Employee number: 124
+Employee name: mohit pandey
+Employee pay: 3300.00
+Date of joining: 1-10-1998
+

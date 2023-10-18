@@ -1,0 +1,5 @@
+gcc 17_quadratic_roots.c -o 17_quadratic_roots.out -lm
+./17_quadratic_roots.out
+a b c: 1 2 3
+Roots = -1.00+1.41i, -1.00-1.41i
+
