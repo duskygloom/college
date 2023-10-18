@@ -8,6 +8,7 @@
 
 # java
 *.class
+java_programming/javafx/
 
 # python
 __pycache__/
