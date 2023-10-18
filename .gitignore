@@ -8,6 +8,8 @@
 
 # java
 *.class
+java_programming/networking/url.html
+java_programming/webscraping/searchPageSource.html
 java_programming/javafx/
 
 # python
