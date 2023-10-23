@@ -2,6 +2,7 @@
 #define NRZL_H
 
 #include "../c_utils/string/string.h"
+#include "../c_utils/list/list.h"
 #include <stdio.h>
 #include <ctype.h>
 
@@ -107,8 +108,11 @@ static inline char *hextobin(char hex) {
         file:
             the file stream in which the hexadecimal is stored
 */
-str *readhex(FILE *file);
+String *readhex(FILE *file);
 
-str *getsignal(const char *hex);
+String *getsignal(const char *hex);
+
+void storeXY(List *xlist, List *ylist, const String *signals);
+int creategraph(char *datafile, int nsignal);
 
 #endif

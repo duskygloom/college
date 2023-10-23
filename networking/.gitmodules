@@ -1,0 +1,3 @@
+[submodule "assignments/c_utils"]
+	path = assignments/c_utils
+	url = https://github.com/duskygloom/c_utils
